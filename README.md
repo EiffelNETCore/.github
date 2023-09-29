@@ -1,0 +1,2 @@
+# .github
+EiffelStudio .NETCore resources
